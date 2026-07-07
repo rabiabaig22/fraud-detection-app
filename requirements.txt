@@ -3,4 +3,3 @@ scikit-learn
 joblib
 pandas
 
-model = joblib.load("fraud_detection_pipeline.pkl")
